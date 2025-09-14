@@ -26,7 +26,7 @@ const mappings = {
             "7": {
                 "name": "EXTRA LEGROOM £20"
             },
-			"8": {
+            "8": {
                 "name": "ARM DOORS"
             },
             "9": {
@@ -68,7 +68,7 @@ const mappings = {
             "21": {
                 "name": "INFLIGHT SERVICE 2 NO FRESH"
             },
-		    "22": {
+            "22": {
                 "name": "INFLIGHT RETAIL"
             },
             "24": {
@@ -85,10 +85,10 @@ const mappings = {
             },
             "28": {
                 "name": "HOLIDAYS ARRIVAL CONJESTION"
-            },	
+            },
             "29": {
                 "name": "GENERIC ARRIVAL"
-            },			
+            },
             "30": {
                 "name": "BFS ARRIVAL"
             },
@@ -116,7 +116,7 @@ const mappings = {
             "38": {
                 "name": "EDI ARRIVAL"
             },
-			"39": {
+            "39": {
                 "name": "EDI ARRIVAL ALT"
             },
             "40": {
@@ -146,7 +146,7 @@ const mappings = {
             "48": {
                 "name": "LGW ARRIVAL"
             },
-			"49": {
+            "49": {
                 "name": "LGW ARRIVAL ALT"
             },
             "50": {
@@ -176,7 +176,7 @@ const mappings = {
             "58": {
                 "name": "HOME ARRIVAL"
             },
-			"59": {
+            "59": {
                 "name": "HOME ARRIVAL ALT"
             },
             "60": {
@@ -185,10 +185,10 @@ const mappings = {
             "61": {
                 "name": "Doors to Manual"
             },
-			"62": {
+            "62": {
                 "name": "FINAL DOORS CHECK"
             },
-			"63": {
+            "63": {
                 "name": "FRONT EXIT ONLY"
             },
             "64": {
@@ -217,17 +217,17 @@ const mappings = {
             "1": {
                 name: "Jess Glynne"
             },
-			"2": {
-                name: "BOARDING Playlist"
+            "2": {
+                name: "BOARDING PLAYLIST"
             },
-			"3 {
-				name: "Disembarking Playlist - UK"
+            "3": {
+                name: "DISEMBARKING PLAYLIST - UK"
             },
-			"4": {
-                name: "Disembarking Playlist - EU"
+            "4": {
+                name: "DISEMBARKING PLAYLIST - EU"
             },
-			"5": {
-                name: "Christmas Playlist"
+            "5": {
+                name: "CHRISTMAS PLAYLIST"
             }
         },
     },
@@ -249,4 +249,3 @@ const mappings = {
         },
     }
 }
-
